@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1400" data-name="Rectangle 1400" width="30" height="30" transform="translate(-18584 6148)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="whatsapp" transform="translate(18584 -6148)" clip-path="url(#clip-path)">
+    <g id="whatsapp-svgrepo-com" transform="translate(-18584 6148)">
+      <path id="Path_19662" data-name="Path 19662" d="M0,30l2.58-7.739A14.74,14.74,0,1,1,8.4,27.79Z" fill="#2cb742"/>
+      <path id="Path_19663" data-name="Path 19663" d="M21.974,17.406c-.681-1.286-3.191-2.757-3.191-2.757-.568-.324-1.253-.36-1.577.217a13,13,0,0,1-1.023,1.119,1.907,1.907,0,0,1-2.711-.269l-2.059-2.059L9.353,11.6a1.907,1.907,0,0,1-.269-2.711A13,13,0,0,1,10.2,7.863c.577-.324.541-1.009.217-1.577,0,0-1.471-2.51-2.757-3.191a1.41,1.41,0,0,0-1.657.249L5.1,4.254c-2.885,2.885-1.464,6.141,1.42,9.026l2.636,2.636,2.636,2.636c2.885,2.885,6.141,4.3,9.026,1.42l.909-.909A1.411,1.411,0,0,0,21.974,17.406Z" transform="translate(2.69 2.241)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

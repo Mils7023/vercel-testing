@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_909" data-name="Rectangle 909" width="36" height="36" transform="translate(837 5817)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_28" data-name="Mask Group 28" transform="translate(-837 -5817)" clip-path="url(#clip-path)">
+    <path id="open-music-eject-icon" d="M13.491,2.867l8.952,9.165a1.632,1.632,0,0,0,2.308.032l9.073-9.289A1.632,1.632,0,0,0,32.654,0L14.572,0a1.637,1.637,0,0,0-1.081,2.867Z" transform="translate(831.39 5828.403)" fill="#0b262a"/>
+  </g>
+</svg>

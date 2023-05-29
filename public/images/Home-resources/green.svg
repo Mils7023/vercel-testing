@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.912" height="50.913" viewBox="0 0 50.912 50.913">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00e396"/>
+      <stop offset="1" stop-color="#00c0ce"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10552" data-name="Group 10552" transform="translate(-696.544 -4851.544)">
+    <ellipse id="Ellipse_269" data-name="Ellipse 269" cx="23" cy="13" rx="23" ry="13" transform="translate(699 4864)" opacity="0.2" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_270" data-name="Ellipse 270" cx="23" cy="13" rx="23" ry="13" transform="translate(735 4854) rotate(90)" opacity="0.2" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_279" data-name="Ellipse 279" cx="23" cy="13" rx="23" ry="13" transform="translate(729.071 4902.457) rotate(-135)" opacity="0.2" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_280" data-name="Ellipse 280" cx="23" cy="13" rx="23" ry="13" transform="translate(747.456 4869.929) rotate(135)" opacity="0.2" fill="url(#linear-gradient)"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M1.634,24.366A38.767,38.767,0,0,1,0,13,38.76,38.76,0,0,1,1.634,1.634,38.767,38.767,0,0,1,13,0,38.77,38.77,0,0,1,24.366,1.634,38.76,38.76,0,0,1,26,13a38.767,38.767,0,0,1-1.634,11.366A38.773,38.773,0,0,1,13,26,38.77,38.77,0,0,1,1.634,24.366Z" transform="translate(709 4864)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

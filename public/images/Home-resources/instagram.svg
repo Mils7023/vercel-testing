@@ -1,0 +1,25 @@
+<svg id="Component_14_13" data-name="Component 14 – 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_47" data-name="Ellipse 47" cx="25" cy="25" r="25" transform="translate(780 5353)" fill="#1877f2"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="1.02" cy="0.02" r="2.309" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9ed32"/>
+      <stop offset="0.36" stop-color="#ee2a7b"/>
+      <stop offset="0.44" stop-color="#d22a8a"/>
+      <stop offset="0.6" stop-color="#8b2ab2"/>
+      <stop offset="0.83" stop-color="#1b2af0"/>
+      <stop offset="0.88" stop-color="#002aff"/>
+    </radialGradient>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-780 -5353)" clip-path="url(#clip-path)">
+    <g id="_3-instagram" data-name="3-instagram" transform="translate(780 5353)">
+      <rect id="Rectangle_82" data-name="Rectangle 82" width="50" height="50" rx="8.75" transform="translate(50 50) rotate(180)" opacity="0.1" fill="url(#radial-gradient)"/>
+      <g id="Group_6583" data-name="Group 6583">
+        <path id="Path_15336" data-name="Path 15336" d="M25.834,32.361H12.778A6.528,6.528,0,0,1,6.25,25.834V12.778A6.528,6.528,0,0,1,12.778,6.25H25.834a6.528,6.528,0,0,1,6.528,6.528V25.834a6.528,6.528,0,0,1-6.528,6.528ZM12.778,8.861a3.922,3.922,0,0,0-3.917,3.917V25.834a3.922,3.922,0,0,0,3.917,3.917H25.834a3.922,3.922,0,0,0,3.917-3.917V12.778a3.922,3.922,0,0,0-3.917-3.917Z" transform="translate(5.694 5.694)" fill="url(#radial-gradient)"/>
+        <path id="Path_15337" data-name="Path 15337" d="M21.773,29.171a7.4,7.4,0,1,1,7.4-7.4,7.4,7.4,0,0,1-7.4,7.4Zm0-12.185a4.787,4.787,0,1,0,4.787,4.787A4.787,4.787,0,0,0,21.773,16.986Z" transform="translate(3.227 3.227)" fill="url(#radial-gradient)"/>
+        <circle id="Ellipse_48" data-name="Ellipse 48" cx="1.306" cy="1.306" r="1.306" transform="translate(31.093 16.731)" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
