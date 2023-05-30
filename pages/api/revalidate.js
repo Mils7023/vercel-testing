@@ -6,7 +6,7 @@ export default async function handler(req, res) {
     }
    
     try {
-      await res.revalidate("/services/ecommerce");
+      await res.revalidate(req.query.path);
       console.log("process.env.MY_SECRET_TOKEN", process.env.MY_SECRET_TOKEN)
       return res.json({ revalidated: true });
     } catch (err) {
